@@ -44,14 +44,14 @@
      inkscape:window-height="713"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.25965589"
-     inkscape:cx="1550.4931"
-     inkscape:cy="487.54662"
+     inkscape:zoom="1.0386236"
+     inkscape:cx="1709.7292"
+     inkscape:cy="-275.83676"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="1635.0419,-369.67064"
@@ -61,6 +61,10 @@
        position="1636.0596,-217.59568"
        orientation="0,1"
        id="guide4162" />
+    <sodipodi:guide
+       position="1720.7509,-297.17418"
+       orientation="1,0"
+       id="guide6779" />
   </sodipodi:namedview>
   <image
      width="2304"
@@ -97,7 +101,7 @@
      id="path4156"
      inkscape:connector-curvature="0" />
   <g
-     id="g4842">
+     id="g6790">
     <path
        sodipodi:type="star"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -113,7 +117,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1628.4203,2261.0441 -95.9149,2.1159 -49.7898,-82.0068 46.1251,-84.1226 95.9148,-2.1159 49.7899,82.0068 z"
-       transform="matrix(0.84292881,-0.47889453,0.47889453,0.84292881,-734.06662,1977.3395)" />
+       transform="matrix(0.84921379,-0.46765894,0.46765894,0.84921379,-719.30895,1946.0784)" />
     <path
        sodipodi:nodetypes="cccc"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
