@@ -111,7 +111,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.25965589"
-     inkscape:cx="1736.7664"
+     inkscape:cx="1263.0626"
      inkscape:cy="-123.98119"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -162,30 +162,6 @@
      d="m 1584.719,2292.4023 c -26.3468,41.104 -59.2269,66.1144 -94.2478,82.4671 -35.3371,16.5004 -71.3738,23.5266 -102.841,29.6504 31.2266,-0.1666 69.8065,-1.3993 109.0997,-13.0686 39.5889,-11.7572 80.9941,-34.4401 116.5763,-78.1961 z"
      id="path4156"
      inkscape:connector-curvature="0" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:209.69764709px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="1406.3196"
-     y="2351.1138"
-     id="text4167"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan4169"
-       x="1406.3196"
-       y="2351.1138"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Moon;-inkscape-font-specification:'Moon Light';fill:#d40000">B</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:209.69764709px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="1861.3511"
-     y="2351.1138"
-     id="text4171"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan4173"
-       x="1861.3511"
-       y="2351.1138"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Moon;-inkscape-font-specification:'Moon Light';fill:#d40000">X</tspan></text>
   <path
      transform="matrix(0.84292881,-0.47889453,0.47889453,0.84292881,-734.06662,1977.3395)"
      d="m 1628.4203,2261.0441 -95.9149,2.1159 -49.7898,-82.0068 46.1251,-84.1226 95.9148,-2.1159 49.7899,82.0068 z"
@@ -216,24 +192,24 @@
   <text
      sodipodi:linespacing="125%"
      id="text4200"
-     y="3133.177"
-     x="1418.5353"
+     y="3128.4277"
+     x="1402.5353"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200.16429138px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Michroma;-inkscape-font-specification:Michroma;fill:#000000"
-       y="3133.177"
-       x="1418.5353"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:187.5px;font-family:Michroma;-inkscape-font-specification:Michroma;fill:#000000"
+       y="3128.4277"
+       x="1402.5353"
        id="tspan4202"
        sodipodi:role="line">B</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text4204"
-     y="3133.177"
+     y="3128.4277"
      x="1871.8801"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200.16429138px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Michroma;-inkscape-font-specification:Michroma;fill:#000000"
-       y="3133.177"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:187.5px;font-family:Michroma;-inkscape-font-specification:Michroma;fill:#000000"
+       y="3128.4277"
        x="1871.8801"
        id="tspan4206"
        sodipodi:role="line">X</tspan></text>
@@ -246,7 +222,7 @@
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4170"
-       x="1638.8856"
+       x="1643.8856"
        y="2928.7078"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Michroma;-inkscape-font-specification:Michroma;letter-spacing:10px">SPACE</tspan></text>
 </svg>
