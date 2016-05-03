@@ -16,7 +16,10 @@
    id="svg4881"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="personal_card_mockup.svg">
+   sodipodi:docname="personal_card_mockup.svg"
+   inkscape:export-filename="/media/Datos/Dropbox/Mergus/mergusprojects/spacebox/personal_card_mockup_v1.png"
+   inkscape:export-xdpi="178.33846"
+   inkscape:export-ydpi="178.33846">
   <defs
      id="defs4883">
     <radialGradient
@@ -105,7 +108,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6738462"
-     inkscape:cx="252.32484"
+     inkscape:cx="241.86988"
      inkscape:cy="162.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -129,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
