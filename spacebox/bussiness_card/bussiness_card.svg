@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="personal_card.svg"
+   sodipodi:docname="bussiness_card.svg"
    inkscape:version="0.91 r"
    version="1.1"
    id="svg2"
    viewBox="0 0 303.30708 191.26772"
    height="191.26772"
-   width="303.30707">
+   width="303.30707"
+   inkscape:export-filename="/media/Datos/Dropbox/Mergus/mergusprojects/spacebox/bussiness_card_back.png"
+   inkscape:export-xdpi="148.22156"
+   inkscape:export-ydpi="148.22156">
   <defs
      id="defs4">
     <linearGradient
@@ -63,7 +66,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="-4.278178"
-     inkscape:cx="151.65354"
+     inkscape:cx="139.06114"
      inkscape:zoom="1.3897276"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -79,7 +82,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,7 +92,9 @@
      id="layer1"
      transform="translate(0,-861.09449)">
     <g
-       id="g5080">
+       id="g5080"
+       inkscape:export-xdpi="148.22156"
+       inkscape:export-ydpi="148.22156">
       <rect
          y="1061.0945"
          x="0"
