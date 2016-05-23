@@ -86,14 +86,14 @@ Dentro de las carpetas podés encontrar diseños para:
 
 **Mockup:**
 
-1. Tarjeta:
-	- archivo PNG
+1. Mockup de:
+ 	- Tarjeta
+	- Banner facebook
+	- Banner twitter
+	- Favicon
+	- Logo blanco
+	- Logo negro
 
-2. Banner facebook:
-	- archivo PNG
-
-3. Banner twitter:
-	- archivo PNG
 
 **Tipografías:**
 
