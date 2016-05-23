@@ -14,19 +14,9 @@ Dentro de las carpetas podés encontrar diseños para:
 
 **Redes sociales:**
 
-1. Banner para facebook (1500x570px):
+1. Banner para facebook:
 
-![fbBanner](/spacebox/banner_facebook/spacebox_banner_facebook_v2_min.jpg) 
-
-	- archivo original SVG
-	- archivo PNG
-	- archivo PNG optimizado
-	- archivo JPG
-	- archivo JPG optimizado
-
-2. Banner para twitter (2000x500px):
-
-![twBanner](/spacebox/banner_twitter/spacebox_banner_twitter_v1_min.jpg) 
+![fbBanner](/spacebox/mockup/spacebox_mockup_facebook_page.png) 
 
 	- archivo original SVG
 	- archivo PNG
@@ -34,9 +24,17 @@ Dentro de las carpetas podés encontrar diseños para:
 	- archivo JPG
 	- archivo JPG optimizado
 
-3. Imagen de perfil (400x400px):
+2. Banner para twitter:
 
-![profileImg](/spacebox/profile_image/spacebox_profile_400_v1_min.jpg) 
+![twBanner](/spacebox/mockup/spacebox_mockup_twitter_page.png) 
+
+	- archivo original SVG
+	- archivo PNG
+	- archivo PNG optimizado
+	- archivo JPG
+	- archivo JPG optimizado
+
+3. Imagen de perfil:
 
 	- archivo original SVG
 	- archivo PNG
@@ -46,7 +44,9 @@ Dentro de las carpetas podés encontrar diseños para:
 
 **Impresión:**
 
-1. Tarjetas de presentación (54,0x85,6mm):
+![bussinesscard](/spacebox/mockup/personal_card_mockup_v1.png) 
+
+1. Tarjetas de presentación:
 	- archivo original SVG
 	- archivo PNG diseño frente
 	- archivo PNG diseño dorso
@@ -54,6 +54,9 @@ Dentro de las carpetas podés encontrar diseños para:
 **Web:**
 
 1. Favicon:
+
+![faviconmockup](/spacebox/mockup/favicon_mockup.png)
+
 	- archivo markdown con códigos
 	- archivo ICO
 	- archivo PNG 16x16px
@@ -61,14 +64,20 @@ Dentro de las carpetas podés encontrar diseños para:
 	- archivo PNG 144x144px
 	- archivo PNG 152x152px
 
-2. Logo negro, fondo transparente (400x244px):
+2. Logo negro, fondo transparente:
+
+![logoblackmockup](/spacebox/mockup/logo_black_mockup.png)
+
 	- archivo original SVG
 	- archivo SVG optimizado
 	- archivo PNG
 	- archivo PNG optimizado
 	- archivo PNG ultra optimizado
 
-3. Logo blanco, fondo transparente (400x244px):
+3. Logo blanco, fondo transparente:
+
+![logowhitemockup](/spacebox/mockup/logo_white_mockup.png)
+
 	- archivo original SVG
 	- archivo SVG optimizado
 	- archivo PNG
@@ -78,10 +87,12 @@ Dentro de las carpetas podés encontrar diseños para:
 **Mockup:**
 
 1. Tarjeta:
-	- archivo original SVG
 	- archivo PNG
 
 2. Banner facebook:
+	- archivo PNG
+
+3. Banner twitter:
 	- archivo PNG
 
 **Tipografías:**
