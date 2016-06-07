@@ -97,11 +97,12 @@ Dentro de las carpetas podés encontrar diseños para:
 
 **Tipografías:**
 
-Incluye un archivo de texto ([markdown](/spacebox/typography/tipografias.md)) con códigos y links de google fonts 
+Incluye un [archivo de texto](/spacebox/typography/tipografias.md) con códigos y links de google fonts.
 
 **Guía de color:**
 
-Incluye un archivo de texto ([markdown](/spacebox/guia_de_color.md)) con códigos de color en varios formatos, código CSS para generar los degradados de fondo, guía para el uso de los colores principales, auxiliares y sus versiones alternativas.
+Incluye un [archivo de texto](/spacebox/guia_de_color.md) con códigos de color en varios formatos, código CSS para generar los degradados de fondo, guía para el uso de los colores principales, auxiliares y sus versiones alternativas.
 
 **Proceso:**
+
 Incluye todos los archivos previos, bocetos, pruebas de color y diseños preliminares.
